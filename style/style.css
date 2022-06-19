@@ -152,7 +152,7 @@
     color: #000000;
 }
 
-,input:focus {
+.input:focus {
     outline: none;
 }
 
